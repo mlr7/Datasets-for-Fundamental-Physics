@@ -41,6 +41,12 @@ A collection of datasets for exploring fundamental physics with machine learning
 
 #### Karagiorgi, Georgia, Gregor Kasieczka, Scott Kravitz, Benjamin Nachman, and David Shih. "Machine learning in the search for new fundamental physics." Nature Reviews Physics (2022): 1-14. ( https://www.nature.com/articles/s42254-022-00455-1 ) ( https://arxiv.org/pdf/2112.03769.pdf )
 
+#### Dillon, Barry M., Radha Mastandrea, and Benjamin Nachman. "Self-supervised Anomaly Detection for New Physics." arXiv preprint arXiv:2205.10380 (2022). ( https://arxiv.org/abs/2205.10380 )
+
+#### Cheung, Kingman, Yi-Lun Chung, Shih-Chieh Hsu, and Benjamin Nachman. "Exploring the Universality of Hadronic Jet Classification." arXiv preprint arXiv:2204.03812 (2022). ( https://arxiv.org/abs/2204.03812 )
+
 #### Carrasquilla, Juan, and Giacomo Torlai. "Neural networks in quantum many-body physics: a hands-on tutorial." arXiv preprint arXiv:2101.11099 (2021). ( https://arxiv.org/abs/2101.11099 )
+
+#### Dreyer, Frédéric A., Pier Francesco Monni, and Radosław Grabarczyk. arXiv: Leveraging universality of jet taggers through transfer learning. No. arXiv: 2203.06210. 2022. ( https://cds.cern.ch/record/2804029 )
 
 #### Special Issue "Fundamental Physics and Machine Learning ( https://www.mdpi.com/journal/entropy/special_issues/Fundam_Phys_Mach_Learning )
