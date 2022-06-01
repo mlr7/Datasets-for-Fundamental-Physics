@@ -1,7 +1,7 @@
 # Datasets-for-Fundamental-Physics
 A collection of datasets for exploring fundamental physics with machine learning
 
-<img src="img/hep2.jpg" align="center"/>
+<img src="img/hep1.jpg" align="center"/>
 
 
 ### CERN: Open Data Portal ( https://opendata.cern.ch/ )
