@@ -28,6 +28,7 @@ A collection of datasets for exploring fundamental physics with machine learning
 
 ### The Dark Machines Anomaly Score Challenge: Benchmark Data and Model Independent Event Classification for the Large Hadron Collider ( https://arxiv.org/abs/2105.14027 )
 * Paper: Aarrestad, Thea, Melissa van Beekveld, Marcella Bona, Antonio Boveia, Sascha Caron, Joe Davies, Andrea De Simone et al. "The dark machines anomaly score challenge: benchmark data and model independent event classification for the large hadron collider." SciPost Physics 12, no. 1 (2022): 043. ( https://www.scipost.org/10.21468/SciPostPhys.12.1.043 ) ( https://arxiv.org/abs/2105.14027#:~:text=version%2C%20v3)%5D-,The%20Dark%20Machines%20Anomaly%20Score%20Challenge%3A%20Benchmark%20Data%20and%20Model,for%20the%20Large%20Hadron%20Collider&text=We%20describe%20the%20outcome%20of,on%20Physics%20at%20TeV%20colliders. )
+* https://darkmachines.org/
 
 ### Shared Data and Algorithms for Deep Learning in Fundamental Physics ( https://arxiv.org/abs/2107.00656 ) ( https://github.com/erum-data-idt/pd4ml )
 
