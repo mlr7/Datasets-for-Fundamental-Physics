@@ -1,7 +1,7 @@
 # Datasets-Fundamental-Physics
 A collection of datasets for exploring fundamental physics with machine learning
 
-### CERN Open Data Portal ( https://opendata.cern.ch/ )
+### * CERN Open Data Portal ( https://opendata.cern.ch/ )
 
 ### CERN: Public Datasets ( https://iml.web.cern.ch/public-datasets )
 
@@ -40,4 +40,4 @@ A collection of datasets for exploring fundamental physics with machine learning
 
 #### Carrasquilla, Juan, and Giacomo Torlai. "Neural networks in quantum many-body physics: a hands-on tutorial." arXiv preprint arXiv:2101.11099 (2021). ( https://arxiv.org/abs/2101.11099 )
 
-#### Special Issue "Fundamental Physics and Machine ( https://www.mdpi.com/journal/entropy/special_issues/Fundam_Phys_Mach_Learning )
+#### Special Issue "Fundamental Physics and Machine Learning ( https://www.mdpi.com/journal/entropy/special_issues/Fundam_Phys_Mach_Learning )
