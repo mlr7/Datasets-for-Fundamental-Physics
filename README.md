@@ -1,7 +1,7 @@
 # Datasets-Fundamental-Physics
 A collection of datasets for exploring fundamental physics with machine learning
 
-### * CERN Open Data Portal ( https://opendata.cern.ch/ )
+### CERN Open Data Portal ( https://opendata.cern.ch/ )
 
 ### CERN: Public Datasets ( https://iml.web.cern.ch/public-datasets )
 
