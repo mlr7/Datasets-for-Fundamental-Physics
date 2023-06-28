@@ -11,8 +11,12 @@ A collection of datasets for exploring fundamental physics with machine learning
 ### CERN: Inter-Experimental LHC Machine Learning Working Group ( https://iml.web.cern.ch/homepage )
 
 ### HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics ( https://iml-wg.github.io/HEPML-LivingReview/ )
+ 
+### Higgs Boson Datasets
 
-### Kaggle: Higgs Boson Machine Learning Challenge - Use the ATLAS experiment to identify the Higgs boson ( https://www.kaggle.com/c/higgs-boson )
+* Kaggle: Higgs Boson Machine Learning Challenge - Use the ATLAS experiment to identify the Higgs boson ( https://www.kaggle.com/c/higgs-boson )
+
+* A FAIR and AI-ready Higgs Boson Decay Dataset ( https://arxiv.org/abs/2108.02214 )
 
 ### SUSY Dataset
 
@@ -34,9 +38,9 @@ A collection of datasets for exploring fundamental physics with machine learning
 
 ### LHC physics dataset for unsupervised New Physics detection at 40 MHz ( https://arxiv.org/abs/2107.02157 )
 
-### A FAIR and AI-ready Higgs Boson Decay Dataset ( https://arxiv.org/abs/2108.02214 )
-
 ### Particle Transformer for Jet Tagging ( https://arxiv.org/abs/2202.03772 )
+
+### LISA Gravitational Wave Data Challenge ( https://asd.gsfc.nasa.gov/archive/astrogravs/docs/mldc/ ) ( https://lisa-ldc.lal.in2p3.fr/challenge2a ) ( https://lisa-ldc.lal.in2p3.fr/ ) ( https://asd.gsfc.nasa.gov/archive/astrogravs/docs/mldc/lisa_data_analysis.html ) ( https://lisa-ldc.lal.in2p3.fr/static/data/pdf/LDC-manual-Spritz.pdf )
 
 # Other Papers of Note
 
@@ -51,3 +55,9 @@ A collection of datasets for exploring fundamental physics with machine learning
 #### Dreyer, Frédéric A., Pier Francesco Monni, and Radosław Grabarczyk. arXiv: Leveraging universality of jet taggers through transfer learning. No. arXiv: 2203.06210. 2022. ( https://cds.cern.ch/record/2804029 )
 
 #### Special Issue "Fundamental Physics and Machine Learning ( https://www.mdpi.com/journal/entropy/special_issues/Fundam_Phys_Mach_Learning )
+
+### MLPHysics Portal ( http://mlphysics.ics.uci.edu/ )
+
+### To Add
+
+(EinsteinPy, QM-py UI, https://github.com/erum-data-idt/pd4ml, pull Higgs out from pg, etc.)
